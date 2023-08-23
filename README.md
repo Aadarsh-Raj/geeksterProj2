@@ -1,4 +1,6 @@
 # geeksterProj2
+hosted link --> https://aadarsh-raj.github.io/geeksterProj2/htmlfile/index.html
+
 <img width="540" alt="image" src="https://github.com/Aadarsh-Raj/geeksterProj2/assets/74525154/a5151c67-0ee2-49e0-895f-81496b0a2062">
 
 
